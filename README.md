@@ -9,6 +9,8 @@ My Node/JS isn't perfect so if you see anything wrong feel free to open an issue
 
 We use the built-in crypto libary, however we currently use the *pbkdf2* package for key generation. I belive the built in libary also provides a pbkdf2 implementation, so I need to look into this and potentially remove the external requirment.
 
+Currently the module is not on NPM, but if there is any interest then I will push it up.
+
 Install the dependencies.
 
 ```sh
